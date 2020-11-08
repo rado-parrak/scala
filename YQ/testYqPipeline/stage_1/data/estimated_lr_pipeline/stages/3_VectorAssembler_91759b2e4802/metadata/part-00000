@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1550917977665,"sparkVersion":"2.4.0","uid":"VectorAssembler_91759b2e4802","paramMap":{"inputCols":["AGE","MARITAL_STATUS_IDX","C_PROD_IDX","AGG_OUSTANDING_IMP","C_TXN","AGG_TXN"],"outputCol":"features"},"defaultParamMap":{"outputCol":"VectorAssembler_91759b2e4802__output","handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1550917977356,"sparkVersion":"2.4.0","uid":"Imputer_51a885dec21d","paramMap":{"outputCols":["AGG_OUSTANDING_IMP"],"inputCols":["AGG_OUSTANDING"]},"defaultParamMap":{"strategy":"mean","missingValue":"NaN"}}
